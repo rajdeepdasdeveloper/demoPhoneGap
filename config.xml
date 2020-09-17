@@ -29,7 +29,7 @@
   <preference name="disable-cursor" value="false" />
 
  <plugin name="cordova-plugin-whitelist" version="1"/>
-  <allow-navigation href="http://www.nickosys.com/*" />
+  <allow-navigation href="https://www.google.com*" />
 
 
   <content src="index.html" />
