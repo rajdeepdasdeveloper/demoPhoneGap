@@ -20,14 +20,16 @@
 		}
 
 		function doWhenOffline(){		
+			alert("Offline");
 			document.getElementById('offline-screen').style.display = 'block';
-			document.getElementById('iframe').stylevisibility = 'hidden';
+			document.getElementById('iframe').style.visibility = 'hidden';
 		}
 
-		function doWhenOnline(){			
+		function doWhenOnline(){
+		alert("Online");		
 			document.getElementById('offline-screen').style.display = 'none';
 			document.getElementById('iframe').style.visibility = 'visible';
-			document.getElementById('iframe').src = 'http://angularapp.dev.projects.nickosys.com'
+			//document.getElementById('iframe').src = 'http://angularapp.dev.projects.nickosys.com'
 		}
 
 		function onDeviceReady() {
