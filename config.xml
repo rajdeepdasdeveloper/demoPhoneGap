@@ -35,6 +35,7 @@ xmlns:android = "http://schemas.android.com/apk/res/android"
   <preference name="disable-cursor" value="false" />
   <preference name="android-minSdkVersion" value="14" />
   <preference name="android-installLocation" value="auto" />
+  <preference name="phonegap-version" value="cli-8.0.0" />
 
   <plugin name="cordova-plugin-whitelist" source="npm"/>
   <plugin name="cordova-plugin-statusbar" source="npm" spec="2.2.2" />
