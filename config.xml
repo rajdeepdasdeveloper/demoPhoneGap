@@ -28,7 +28,9 @@
   <preference name="auto-hide-splash-screen" value="true" />
   <preference name="disable-cursor" value="false" />
 
+ <plugin name="cordova-plugin-whitelist" version="1"/>
   <allow-navigation href="http://www.nickosys.com/*" />
+
 
   <content src="index.html" />
   <access origin="*" />
