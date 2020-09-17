@@ -18,7 +18,7 @@ xmlns:android = "http://schemas.android.com/apk/res/android"
   <preference name="SplashScreenDelay" value = "4000" />
   <preference name="ShowSplashScreenSpinner" value="false" />
   <preference name="orientation" value="portrait" />
-  <preference name="android-minSdkVersion" value="14" />
+  
   <preference name="android-installLocation" value="auto" />
   <!-- <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -33,7 +33,7 @@ xmlns:android = "http://schemas.android.com/apk/res/android"
   <preference name="show-splash-screen-spinner" value="true" />
   <preference name="auto-hide-splash-screen" value="true" />
   <preference name="disable-cursor" value="false" />
-  <preference name="android-minSdkVersion" value="14" />
+  <preference name="android-minSdkVersion" value="16" />
   <preference name="android-installLocation" value="auto" />
   <preference name="phonegap-version" value="cli-8.0.0" />
 
