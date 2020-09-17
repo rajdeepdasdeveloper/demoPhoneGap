@@ -28,6 +28,8 @@
   <preference name="auto-hide-splash-screen" value="true" />
   <preference name="disable-cursor" value="false" />
 
+  <allow-navigation href="http://www.nickosys.com/*" />
+
   <content src="index.html" />
   <access origin="*" />
   <allow-intent href="http://*/*" />
