@@ -28,6 +28,8 @@
   <preference name="auto-hide-splash-screen" value="true" />
   <preference name="disable-cursor" value="false" />
 
+  <content src="index.html" />
+  <access origin="*" />
   <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
